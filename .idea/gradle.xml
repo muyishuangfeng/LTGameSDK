@@ -15,7 +15,6 @@
             <option value="$PROJECT_DIR$/LTGameQq" />
             <option value="$PROJECT_DIR$/LTGameUI" />
             <option value="$PROJECT_DIR$/LTGameWeChat" />
-            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
