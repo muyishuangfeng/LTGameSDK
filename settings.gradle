@@ -1,0 +1,2 @@
+include ':app',':LTGameCommon', ':LTGameWeChat', ':LTGameQq', ':LTGameOneStore', ':LTGameGoogle', ':LTGameFaceBook',':LTGameUI'
+
